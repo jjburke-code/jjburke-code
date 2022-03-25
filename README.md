@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yoesph
+- 👋 Hi, I’m @jjburke-code
 - 👀 I’m interested in C, Java
 - 🌱 I’m currently learning C, and potentially Javascript
 - 💞️ I’m looking to collaborate on nothing
